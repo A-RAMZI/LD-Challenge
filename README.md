@@ -10,6 +10,7 @@
 for more details about the project and more screenshots check the file "others"<br />
 
 to run the application use:
+
     npm run start
 at the main directory 
 
