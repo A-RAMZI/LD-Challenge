@@ -2,9 +2,9 @@
 ## Legal doctrin challenge 
 
 ## used technologies
- *Html/Css 
- *React - redux
-
+- Html/Css 
+- React - redux
+ Thomas Jefferson
 -- responsive graphical user interface  --
 
 ![image info](./others/capture-empty.jpg)  
