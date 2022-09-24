@@ -5,7 +5,7 @@
  *Html/Css 
  *React - redux
 
--       responsive graphical user interface         -
+-- responsive graphical user interface  --
 
 ![image info](./others/capture-empty.jpg)  
 for more details about the project and more screenshots check the file "others"
